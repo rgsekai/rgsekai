@@ -44,6 +44,7 @@
 
 <br clear="both">
 
-<img data-importer="snake" src="https://githubusercontent.com" alt="Snake animation" />
+<img src="https://github.com" alt="Snake animation" />
+
 
 ###
