@@ -12,6 +12,12 @@
 <img data-importer="image" align="right" height="150" src="https://imgflip.com"  />
 
 ###
+### GitHub Stats
+
+<p align="center">
+  <img src="https://vercel.app" height="150" alt="stats graph" />
+  <img src="https://vercel.app" height="150" alt="languages graph" />
+</p>
 
 <div data-importer="techs" align="left">
   <img src="https://jsdelivr.net" height="30" alt="javascript logo"  />
