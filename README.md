@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rgsekai&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true" alt="rgsekai's GitHub Stats" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgsekai&layout=compact&theme=dracula&hide_border=true" alt="rgsekai's Top Languages" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=rgsekai&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&v=1" alt="rgsekai's GitHub Stats" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgsekai&layout=compact&theme=dracula&hide_border=true&v=1" alt="rgsekai's Top Languages" />
 </div>
 <br/>
 
