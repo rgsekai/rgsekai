@@ -8,6 +8,30 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 * 🤖 I build things using **AI assistance and smart prompting**
 * 📫 How to reach me: **[Add your email or social link]**
 
+<div align="center">
+  <br />
+  <!-- GMAIL -->
+  <a href="mailto:YOUR_EMAIL_ADDRESS_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  
+  <!-- DISCORD -->
+  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+  </a>
+  
+  <!-- TELEGRAM -->
+  <a href="https://t.me/YOUR_TELEGRAM_USERNAME_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+  
+  <!-- INSTAGRAM -->
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <br />
+</div>
+
 ### 🛠️ My Toolkit
 * **AI Assistants:** 
 * **Editors & Tools:** 
