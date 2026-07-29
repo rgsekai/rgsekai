@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Snake contributions demo — rgsekai</title>
+  <style>
+    body { background: #0b0f12; color: #fff; display:flex; align-items:center; justify-content:center; height:100vh; margin:0; }
+    .frame { background: #0b1113; padding:24px; border-radius:8px; box-shadow:0 10px 30px rgba(0,0,0,0.6); }
+  </style>
+</head>
+<body>
+  <div class="frame">
+    <!-- Inline SVG demo (animation preserved when opened directly) -->
+    <?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="732" height="110" viewBox="0 0 732 110" role="img" aria-label="Contributions snake animation (52 weeks)">
+  <style>
+    :root { --bg: transparent; --cell-bg: #0b1220; --snake-trail: #34d399; --snake-head: #16a34a; }
+    svg { background: transparent; }
+    .cell { fill: #0b1220; rx: 2; }
+    .snake-trail { stroke: var(--snake-trail); stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; fill: none; opacity: 0.95; }
+    .snake-head { fill: var(--snake-head); filter: drop-shadow(0 1px 3px rgba(0,0,0,0.6)); }
+  </style>
+
+  <!-- tiled grid pattern for a 52x7 contributions-style grid -->
+  <defs>
+    <pattern id="gridPattern" x="4" y="4" width="14" height="14" patternUnits="userSpaceOnUse">
+      <rect class="cell" x="0" y="0" width="10" height="10" />
+    </pattern>
+  </defs>
+
+  <!-- draw the tiled grid area: 52 columns * 14 = 728 width, 7 rows * 14 = 98 height -->
+  <rect x="4" y="4" width="728" height="98" fill="url(#gridPattern)" rx="6" />
+
+  <!-- snake path that zig-zags through the centers of the grid cells -->
+  <path id="snakePath" class="snake-trail"
+    d="M9,9 L9,93 L23,93 L23,9 L37,9 L37,93 L51,93 L51,9 L65,9 L65,93 L79,93 L79,9 L93,9 L93,93 L107,93 L107,9 L121,9 L121,93 L135,93 L135,9 L149,9 L149,93 L163,93 L163,9 L177,9 L177,93 L191,93 L191,9 L205,9 L205,93 L219,93 L219,9 L233,9 L233,93 L247,93 L247,9 L261,9 L261,93 L275,93 L275,9 L289,9 L289,93 L303,93 L303,9 L317,9 L317,93 L331,93 L331,9 L345,9 L345,93 L359,93 L359,9 L373,9 L373,93 L387,93 L387,9 L401,9 L401,93 L415,93 L415,9 L429,9 L429,93 L443,93 L443,9 L457,9 L457,93 L471,93 L471,9 L485,9 L485,93 L499,93 L499,9 L513,9 L513,93 L527,93 L527,9 L541,9 L541,93 L555,93 L555,9 L569,9 L569,93 L583,93 L583,9 L597,9 L597,93 L611,93 L611,9 L625,9 L625,93 L639,93 L639,9 L653,9 L653,93 L667,93 L667,9 L681,9 L681,93 L695,93 L695,9 L709,9 L709,93 L723,93 L723,9"
+    stroke-opacity="0.95" />
+
+  <!-- animate the trailing stroke by shifting dash offset; dasharray tuned to look like a moving segment -->
+  <animate xlink:href="#snakePath"
+           attributeName="stroke-dasharray"
+           from="60 2000" to="60 2000" begin="0s" dur="0s" fill="freeze" />
+  <animate xlink:href="#snakePath"
+           attributeName="stroke-dashoffset"
+           from="0" to="-4000" dur="28s" repeatCount="indefinite" />
+
+  <!-- head that follows the path -->
+  <g>
+    <circle class="snake-head" r="7">
+      <animateMotion dur="28s" repeatCount="indefinite" rotate="auto">
+        <mpath xlink:href="#snakePath" />
+      </animateMotion>
+    </circle>
+  </g>
+
+</svg>
+
+  </div>
+</body>
+</html>
