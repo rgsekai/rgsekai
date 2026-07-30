@@ -36,10 +36,15 @@ I love bringing ideas to life, building projects, and exploring the endless poss
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /></a>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://img.shields.io/badge/Android%20Studio-333333?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" /></a>
 </p>
+
+<br/>
+
 ---
 
 ### 🎧 Coding Playlist
 * <a href="https://open.spotify.com/user/31wzmumwihuhnt4umx7kmyxaokjq?si=34d4ebeed8174bbb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" height="20"/></a> Currently vibing to my favorite tracks while building.
+
+<br/>
 
 ---
 
