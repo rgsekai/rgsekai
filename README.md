@@ -7,8 +7,6 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 * 🌱 I’m currently planning to **learn formal programming skills in the future**
 * 🤖 I build things using **AI assistance and smart prompting**
 
-<br/>
-
 ---
 
 ### 📫 How to Reach Me
@@ -27,16 +25,16 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 
 **🤖 AI Assistants**
 <p>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
 </p>
 
 **💻 Editors & Tools**
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Android%20Studio-1a1a1a?style=for-the-badge&logo=android%20studio&logoColor=3DDC84" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Android%20Studio-333333?style=for-the-badge&logo=androidstudio&logoColor=3DDC84" alt="Android Studio" />
 </p>
 
 ---
