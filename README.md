@@ -43,7 +43,7 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rgsekai&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Rg's GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com?user=rgsekai&theme=dracula&hide_border=true" alt="Rg's Contribution Streak" />
 </div>
 <br/>
 
