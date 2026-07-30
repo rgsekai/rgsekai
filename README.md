@@ -40,7 +40,7 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 ---
 
 ### 🎧 Coding Playlist
-* <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" height="20"/> Currently vibing to my favorite tracks while building. 
+* <a href="[YOUR_SPOTIFY_PROFILE_LINK_HERE" target="_blank](https://open.spotify.com/user/31wzmumwihuhnt4umx7kmyxaokjq?si=34d4ebeed8174bbb)"><img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" height="20"/></a> Currently vibing to my favorite tracks while building. 
 
 ---
 
