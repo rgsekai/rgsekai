@@ -6,24 +6,28 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 * 🔭 I’m currently working on **sekai-tune**
 * 🌱 I’m currently planning to **learn formal programming skills in the future**
 * 🤖 I build things using **AI assistance and smart prompting**
-* 📫 How to reach me: **[Add your email]**
 
+<br/>
+
+---
+
+### 📫 How to Reach Me
 <div align="left">
   <!-- GMAIL -->
   <a href="mailto:YOUR_EMAIL_ADDRESS_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-1a1a1a?style=plastic&logo=gmail&logoColor=EA4335" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail Badge"/>
   </a>
   <!-- DISCORD -->
   <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-1a1a1a?style=plastic&logo=discord&logoColor=5865F2" alt="Discord Badge"/>
+    <img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Badge"/>
   </a>
   <!-- TELEGRAM -->
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1a1a1a?style=plastic&logo=telegram&logoColor=26A5E4" alt="Telegram Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Badge"/>
   </a>
   <!-- INSTAGRAM -->
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-1a1a1a?style=plastic&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/>
   </a>
 </div>
 
@@ -43,14 +47,14 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 **💻 Editors & Tools**
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Android%20Studio-1a1a1a?style=for-the-badge&logo=android%20studio&logoColor=3DDC84" alt="Android Studio" />
 </p>
 
 ---
 
 ### 🎧 Coding Playlist
-* Currently vibing to my favorite Spotify tracks while building. 
+* <img src="https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=white" alt="Spotify" height="20"/> Currently vibing to my favorite tracks while building. 
 
 ---
 
