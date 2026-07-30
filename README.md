@@ -11,7 +11,8 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 
 ### 📫 How to Reach Me
 <div align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sekaisync@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail Badge"/></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sekaisync@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail--Web-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail Web"/></a>
+  <a href="mailto:sekaisync@protonmail.com"><img src="https://img.shields.io/badge/Gmail--App-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail App"/></a>
   <a href="https://discordapp.com/users/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Badge"/></a>
   <a href="https://t.me/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Badge"/></a>
   <a href="https://instagram.com/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/></a>
