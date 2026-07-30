@@ -16,6 +16,7 @@ I love bringing ideas to life, building projects, and exploring the endless poss
   <a href="https://t.me/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Badge"/></a>
   <a href="https://instagram.com/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/></a>
 </div>
+<small>📧 Prefer webmail on PC? Drop me a line at: <code>sekaisync@protonmail.com</code></small>
 
 <br/>
 
