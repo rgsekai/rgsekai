@@ -12,7 +12,7 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 ### 📫 How to Reach Me
 <div align="left">
   <a href="mailto:sekaisync@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Gmail Badge"/></a>
-  <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID_HERE" target="_blank"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Badge"/></a>
+  <a href="https://discordapp.com/users/rgsekai" target="_blank"><img src="https://img.shields.io/badge/Discord-333333?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Badge"/></a>
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME_HERE" target="_blank"><img src="https://img.shields.io/badge/Telegram-333333?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram Badge"/></a>
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME_HERE" target="_blank"><img src="https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram Badge"/></a>
 </div>
