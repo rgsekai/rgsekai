@@ -6,30 +6,25 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 * 🔭 I’m currently working on **sekai-tune**
 * 🌱 I’m currently planning to **learn formal programming skills in the future**
 * 🤖 I build things using **AI assistance and smart prompting**
-* 📫 How to reach me: **[Add your email or social link]**
+* 📫 How to reach me: **[Add your email]**
 
-<div align="center">
-  <br />
+<div align="left">
   <!-- GMAIL -->
   <a href="mailto:YOUR_EMAIL_ADDRESS_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  
   <!-- DISCORD -->
   <a href="https://discordapp.com/users/YOUR_DISCORD_USER_ID_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  
   <!-- TELEGRAM -->
   <a href="https://t.me/YOUR_TELEGRAM_USERNAME_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  
   <!-- INSTAGRAM -->
   <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME_HERE" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <br />
 </div>
 
 ### 🛠️ My Toolkit
@@ -40,12 +35,6 @@ I love bringing ideas to life, building projects, and exploring the endless poss
 * Currently listening to **[Add your favorite song or artist]** on Spotify.
 
 ---
-
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=rgsekai&theme=dracula&hide_border=true" alt="Rg's Contribution Streak" />
-</div>
-<br/>
 
 ### 🐍 Contribution Activity
 <picture>
