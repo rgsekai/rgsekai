@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rg
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasr14iaUG/giphy.gif" width="30px">, I'm Rg
 
 I love bringing ideas to life, building projects, and exploring the endless possibilities of coding alongside AI tools. 
 
